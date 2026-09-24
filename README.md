@@ -1,9 +1,10 @@
-﻿# Applied Causal Inference & Structural Causal Models: Beyond Passive Correlation
+# Applied Causal Inference & Structural Causal Models: Beyond Passive Correlation
 
 [![Language](https://img.shields.io/badge/Language-Python%203.10+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![Frameworks](https://img.shields.io/badge/Frameworks-DoWhy%20%7C%20pgmpy-blue)](https://github.com/py-why/dowhy)
 [![Methodology](https://img.shields.io/badge/Methodology-SCM%20%7C%20Potential%20Outcomes-orange)](#)
 [![Case Study](https://img.shields.io/badge/Case%20Study-Viticulture%20Agronomic%20Interventions-green)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Machine learning predicts $P(Y \mid X)$. Strategic decisions require $P(Y \mid \text{do}(X))$. An applied framework across DAGs, do-calculus, Meta-Learners, and real-world counterfactual evaluation.
 
